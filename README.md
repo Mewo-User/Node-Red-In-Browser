@@ -1,5 +1,6 @@
-# Node-Red
+# Node-Red-In-Browser
 Runs in browser
+
 how to run
 
 1. Clone this project
