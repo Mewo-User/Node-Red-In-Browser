@@ -1,0 +1,13 @@
+copyright:
+	year: "2026"
+	holder: "Mewo INC."
+	notice: "Copyright (c) 2026 Mewo INC. All rights reserved."
+	license: "All rights reserved"
+	applies_to: "All repository files unless a file states otherwise."
+
+duplicate_content_policy:
+	enabled: true
+	description: >-
+		Exact-copy detection must be implemented by a separate GitHub Actions
+		workflow or external checker. This file records the policy only; GitHub
+		does not execute workflow files stored outside .github/workflows/.
